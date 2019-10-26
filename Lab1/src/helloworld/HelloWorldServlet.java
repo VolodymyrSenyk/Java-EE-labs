@@ -15,12 +15,14 @@ public class HelloWorldServlet extends HttpServlet {
 	@Override
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         response.setContentType("text/html");
+        response.setCharacterEncoding("UTF-8");
         try (PrintWriter writer = response.getWriter()) {
             writer.println("<h2 align='center'>Hello, web world!</h2>");
             writer.println("<form action='Authorization'>");
             writer.println("<p align='center'><input type='submit' value='Go to authorization'/>");
             writer.println("</form>");
+            writer.println("<p align='right'>Сеник В. Н.</p>");
+            writer.println("<p align='right'>КН-37г</p>");
         }
     }
-	
 }
