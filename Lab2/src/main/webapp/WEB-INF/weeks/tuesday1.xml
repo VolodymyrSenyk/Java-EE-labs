@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Day>
+<DayOfTheWeek>tuesday1</DayOfTheWeek>
+<Pairs>
+<Pair>
+<Time>08:30</Time>
+<Name/>
+<Teacher>Rra</Teacher>
+<Place>r1</Place>
+<TypeOfPair>Sport</TypeOfPair>
+</Pair>
+<Pair>
+<Time>10:25</Time>
+<Name>Qwe</Name>
+<Teacher>Fgew</Teacher>
+<Place/>
+<TypeOfPair>Practice</TypeOfPair>
+</Pair>
+<Pair>
+<Time>12:35</Time>
+<Name/>
+<Teacher>Sifon</Teacher>
+<Place>y3</Place>
+<TypeOfPair>Laboratory</TypeOfPair>
+</Pair>
+</Pairs>
+</Day>

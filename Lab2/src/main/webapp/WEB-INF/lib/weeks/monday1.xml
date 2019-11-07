@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Day>
+<DayOfTheWeek>monday1</DayOfTheWeek>
+<Pairs>
+<Pair>
+<Time>10:25</Time>
+<Name>Java</Name>
+<Teacher>Belova</Teacher>
+<Place>Y2 514</Place>
+<TypeOfPair>Practice</TypeOfPair>
+</Pair>
+<Pair>
+<Time>12:35</Time>
+<Name>PHP</Name>
+<Teacher>Volovshicov</Teacher>
+<Place>Y1 303</Place>
+<TypeOfPair>Laboratory</TypeOfPair>
+</Pair>
+<Pair>
+<Time/>
+<Name>OOP</Name>
+<Teacher>Ivanov</Teacher>
+<Place>Y2 712</Place>
+<TypeOfPair>Lection</TypeOfPair>
+</Pair>
+</Pairs>
+</Day>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Day>
+<DayOfTheWeek>thursday1</DayOfTheWeek>
+<Pairs>
+<Pair>
+<Time>05:40</Time>
+<Name>Eryh</Name>
+<Teacher>Pjvv</Teacher>
+<Place>u59</Place>
+<TypeOfPair>Practice</TypeOfPair>
+</Pair>
+<Pair>
+<Time>08:30</Time>
+<Name>Tee</Name>
+<Teacher/>
+<Place/>
+<TypeOfPair>Laboratory</TypeOfPair>
+</Pair>
+<Pair>
+<Time>12:35</Time>
+<Name>Qwe</Name>
+<Teacher/>
+<Place/>
+<TypeOfPair>Lection</TypeOfPair>
+</Pair>
+<Pair>
+<Time/>
+<Name>tgr</Name>
+<Teacher/>
+<Place/>
+<TypeOfPair>Type of pair not stated</TypeOfPair>
+</Pair>
+</Pairs>
+</Day>

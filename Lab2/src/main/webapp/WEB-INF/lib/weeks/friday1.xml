@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Day>
+<DayOfTheWeek>friday1</DayOfTheWeek>
+<Pairs>
+<Pair>
+<Time>07:00</Time>
+<Name>Tee</Name>
+<Teacher/>
+<Place/>
+<TypeOfPair>Type of pair not stated</TypeOfPair>
+</Pair>
+<Pair>
+<Time>21:00</Time>
+<Name>Eryh</Name>
+<Teacher>Rra Tss</Teacher>
+<Place>r1</Place>
+<TypeOfPair>Laboratory</TypeOfPair>
+</Pair>
+</Pairs>
+</Day>
