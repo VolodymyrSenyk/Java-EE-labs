@@ -9,6 +9,7 @@
 *.zip
 *.tar.gz
 *.rar
+*.ucls
 hs_err_pid*
 
 .metadata/
