@@ -1,2 +1,2 @@
 # Java-EE-labs
-Laboratory work on Java EE
+Repository for laboratory works on the course of "Stack of Java EE technology"
