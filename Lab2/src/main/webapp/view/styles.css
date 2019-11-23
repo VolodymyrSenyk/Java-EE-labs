@@ -1,0 +1,91 @@
+.header {
+	background: #C0C0C0;
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+	position: absolute;
+	top: 10%;
+	left: 25%;
+	width: 50%;
+	bottom: 10%;
+}
+.navigation {
+	background: #C0C0C0;
+	text-align: center;
+	font-size: 15px;
+	font-weight: bold;
+	position: absolute;
+	width: 100%;
+}
+.buttonLeft {
+	text-align: center;
+	position: fixed;
+	top: 20%;
+	left: 15%;
+	width: 5%;
+}
+.buttonRight {
+	text-align: center;
+	position: fixed;
+	top: 20%;
+	right: 15%;
+	width: 5%;
+}
+.content {
+	background: #C0C0C0;
+	font-size: 15px;
+	font-weight: normal;
+	text-align: left;
+	position: absolute;
+	width: 100%;
+}
+.checker {
+	background: #C0C0C0;
+	font-size: 15px;
+	font-weight: normal;
+	text-align: center;
+	position: absolute;
+	width: 100%;
+}
+.allWeek {
+	display: inline-block;
+}
+
+th {
+	background: #808080;
+	text-align: center;
+}
+
+form input {
+	margin: 5px;
+	width: 100px;
+	height: auto;
+}
+
+form input.active {
+	background-color: green;
+}
+
+form {
+	display: inline-block;
+}
+
+p {
+	text-indent: 10px;
+}
+
+tr.ns {
+	background-color: white;
+}
+tr.lection {
+	background-color: #FFD700;
+}
+tr.practice {
+	background-color: #9370DB;
+}
+tr.laboratory {
+	background-color: #4682B4;
+}
+tr.sport {
+	background-color: #2E8B57;
+}
